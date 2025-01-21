@@ -15,7 +15,6 @@ This project implements a Least Recently Used (LRU) Cache as a REST API using Go
 
 ### Prerequisites
 
-- LeetCode problem
 - [LeetCode](https://leetcode.com/problems/lru-cache/description/)
 - [Solution](https://github.com/Sagor0078/lru-cache-golang-api-design/lru_cache.go)
 - Go 1.16 or higher
