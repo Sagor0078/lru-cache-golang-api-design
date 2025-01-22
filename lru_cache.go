@@ -1,4 +1,4 @@
-
+package main
 
 type Node struct {
 	key  int
